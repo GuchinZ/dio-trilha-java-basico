@@ -5,7 +5,7 @@ public class ContaTerminal {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in).useLocale(Locale.US);
 
-        System.out.println("Seja Bem-vindo ao Terminal de usuário do banco [placeholder].");
+        System.out.println("Seja Bem-vindo ao Terminal de usuário do Banco Box.");
 
         System.out.println("Digite o seu nome completo: ");
         String nomeCompleto = sc.nextLine();
