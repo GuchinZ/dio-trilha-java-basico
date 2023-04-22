@@ -22,4 +22,7 @@ public class Calculadora {
     public int multiplicar(int numeroUm, int numeroDois){
         return numeroUm * numeroDois;
     }
+    public int dividir(int numeroUm, int numeroDois){
+        return numeroUm / numeroDois;
+    }
 }
