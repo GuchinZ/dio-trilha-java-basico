@@ -5,9 +5,9 @@
 * <b>Note:</b> Leia atentamente a documentação desta classes
 * para desfrutar dos recursos oferecidos pelo autor
 *
-* @author  Gleyson Sampaio
-* @version 1.0
-* @since   01/01/2022
+* @author  Gustavo Schimith
+* @version 1.3
+* @since   22/04/2023
 */
 public class Calculadora {
     /**
